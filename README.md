@@ -1,4 +1,4 @@
-# SkipTheDishs Hackathon - A Cloud Based Scalable Architecture
+# SkipTheDishes Hackathon - A Cloud Based Scalable Architecture
 
 The slides also provided on:
 - https://github.com/edumello/SkipTheDishes-scalable-architecture/blob/master/Skip%20the%20Dishes.pptx
